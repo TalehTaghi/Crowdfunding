@@ -1,0 +1,15 @@
+.body {
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+#main-container, .content {
+    flex-grow: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.lgray-bg {
+    flex-grow: 1 !important;
+}
